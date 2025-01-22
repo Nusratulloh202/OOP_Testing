@@ -52,7 +52,7 @@ namespace Mohirdev_OOP_Testing.Classes
                 }
                 while (selection=="ha");
 
-                while (selection == "yoq")
+                if (selection == "yoq")
                 {
 
                     GetCarInfo();
